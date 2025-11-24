@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.greencharts">
+
+    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="30" />
+
+    <application>
+        <!-- No se necesitan actividades porque es una extensión -->
+    </application>
+
+</manifest>
