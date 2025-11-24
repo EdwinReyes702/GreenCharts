@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "components": [
+    {
+      "type": "extension",
+      "name": "GreenCharts",
+      "external": true,
+      "iconName": "https://i.imgur.com/Z7RzV2P.png",
+      "categoryString": "Extension"
+    }
+  ]
+}
